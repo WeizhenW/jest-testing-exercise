@@ -1,0 +1,23 @@
+{
+  "name": "jest-basic-unit-testing-master",
+  "version": "1.0.0",
+  "description": "Practice writing basic unit tests with Jest",
+  "main": "fizzBuzz.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeizhenW/jest-testing-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WeizhenW/jest-testing-exercise/issues"
+  },
+  "homepage": "https://github.com/WeizhenW/jest-testing-exercise#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
